@@ -5,6 +5,8 @@
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
+  background-color: pink;
+  padding-bottom: 20px;
 }
 
 .title {
@@ -16,11 +18,14 @@
 
 .projects {
   margin-top: 37px;
+
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  /* gap: 15px; */
   width: 100%;
+  background-color: red;
+  padding-bottom: 20px;
 }
