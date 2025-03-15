@@ -1,7 +1,7 @@
 @import "../../vars.css";
 
 .container {
-  /* position: relative; */
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -10,7 +10,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
-  height: max-content;
+  /* height: max-content; */
 }
 
 .content {
