@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: yellow;
+  /* background: yellow; */
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 900px;
@@ -44,7 +44,7 @@
   font-size: 25px;
   font-weight: 400;
   border-radius: 100px;
-  background: green;
+  /* background: green; */
   padding: 2px 22px;
 }
 
@@ -61,7 +61,8 @@
   font-size: 30px;
   font-weight: 600;
   border-radius: 100px;
-  background: var(--color-primary);
+  /* background: var(--color-primary); */
+
   padding: 1px 22px;
 }
 

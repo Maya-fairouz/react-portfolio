@@ -1,11 +1,22 @@
 :root {
   /* Colours */
-  --color-text: #000;
+  --color-text:  #F2F2F2;
   --color-primary: #636569;
   --color-secondary: #313132;
   --color-dark: #0b2447;
-  --color-bg: #f5f5f5;
+  --color-bg: #111111;
 
   /* Fonts */
   --font-roboto: "Roboto";
+/* 
+  .container{
+    background-color: ;
+  } */
+}
+.description{
+  margin-top: 30px;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

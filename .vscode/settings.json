@@ -1,0 +1,6 @@
+{
+    "prettier.endOfLine": "auto",
+    "prettier.requirePragma": false,
+    "prettier.singleAttributePerLine": true,
+    "prettier.useTabs": true
+}
